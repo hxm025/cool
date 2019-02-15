@@ -13,7 +13,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://119.28.177.246/apple/xmzj2.ipa</string>
+                    <string>http://119.28.177.246/apple/empty.ipa</string>
                 </dict>
                 <dict>
 									<key>kind</key>
@@ -41,7 +41,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>hxm025</string>
+                <string>empty</string>
             </dict>
         </dict>
     </array>
