@@ -13,13 +13,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/hxm025/cool/master/xmzj.ipa</string>
+                    <string>http://119.28.177.246/apple/xmzj.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>hxm025.com.com</string>
+                <string>com.com.hxm025</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
